@@ -1,0 +1,2 @@
+- Hi, I’m @opclavicle
+- I’m interested in face and object recognition, fMRI data analysis, and stimulus presentation for experiments.
