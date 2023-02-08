@@ -1,2 +1,3 @@
 - Hi, I’m @opclavicle
-- I’m interested in face and object recognition, fMRI data analysis, and stimulus presentation for experiments.
+- My research interests include face and object recognition, fMRI data analysis, and multivariate pattern analysis.
+- 
