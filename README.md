@@ -1,1 +1,3 @@
-Face and object recognition, fMRI data analysis, and multivariate pattern analysis.
+Data visulization.
+fMRI data analysis, especially multivariate pattern analysis.
+Behavioral data collection.
